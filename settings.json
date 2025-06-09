@@ -1,0 +1,51 @@
+{
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "json.schemaDownload.enable": false,
+    "git.openRepositoryInParentFolders": "never",
+
+    //user settings
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.iconTheme": "symbols",
+    "workbench.startupEditor": "none",
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 16,
+    "explorer.compactFolders": false,
+    "window.customTitleBarVisibility": false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 2,
+    "editor.fontSize": 15,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "variable.parameter",
+                    "meta.object-literal.key" //for JS and TS object keys
+                ],
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+    "workbench.colorCustomizations": {
+        "[Ayu Dark]": {},
+        "gitDecoration.modifiedResourceForeground": "#73b8ff",
+        "gitDecoration.untrackedResourceForeground": "#7fd962",
+        "gitDecoration.addedResourceForeground": "#81b88b"
+    },
+    "editor.lightbulb.enabled": "off",
+    "editor.snippetSuggestions": "top",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.overviewRulerBorder": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
