@@ -10,8 +10,8 @@ A minimal approach towards my VS Code Setup - covering editor, fonts, themes, te
 
 ## ✒ Fonts
 
-👉🏼 **JetBrains Mono** <br>
-[📎 Download from Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono)
+👉🏼 ***JetBrains Mono*** <br>
+📎 [Download from Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono)
 
 ## 📷 Screenshot
 
