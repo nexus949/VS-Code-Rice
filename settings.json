@@ -9,14 +9,13 @@
 
     //user settings
     "workbench.colorTheme": "Ayu Dark",
-    "workbench.iconTheme": "symbols",
     "workbench.startupEditor": "none",
     "breadcrumbs.enabled": false,
     "workbench.sideBar.location": "right",
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 16,
     "explorer.compactFolders": false,
-    "window.customTitleBarVisibility": false,
+    "window.customTitleBarVisibility": "never",
     "editor.fontLigatures": true,
     "editor.fontFamily": "JetBrains Mono",
     "editor.lineHeight": 2,
@@ -59,6 +58,10 @@
         "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
         "editorOverviewRuler.wordHighlightTextForeground": "#0000"
     },
+    "workbench.layoutControl.enabled": false,
+    "window.title": "‎",
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "compact",
     "editor.lightbulb.enabled": "off",
     "editor.snippetSuggestions": "top",
     "editor.selectionHighlight": false,
@@ -73,5 +76,7 @@
     "terminal.integrated.lineHeight": 1.2,
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": false,
-    "terminal.integrated.enableVisualBell": false
+    "terminal.integrated.enableVisualBell": false,
+    "workbench.iconTheme": "symbols",
+    "scm.diffDecorations": "gutter"
 }
