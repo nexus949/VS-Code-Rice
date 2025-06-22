@@ -59,7 +59,7 @@
         "editorOverviewRuler.wordHighlightTextForeground": "#0000"
     },
     "workbench.layoutControl.enabled": false,
-    "window.title": "‎",
+    // "window.title": "‎",
     "window.commandCenter": false,
     "window.menuBarVisibility": "compact",
     "editor.lightbulb.enabled": "off",
