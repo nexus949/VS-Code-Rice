@@ -57,7 +57,9 @@
     "editorOverviewRuler.selectionHighlightForeground": "#0000",
     "editorOverviewRuler.wordHighlightForeground": "#0000",
     "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
-    "editorOverviewRuler.wordHighlightTextForeground": "#0000"
+    "editorOverviewRuler.wordHighlightTextForeground": "#0000",
+    "panel.border": "#0000",
+    "panel.dropBorder": "#0000"
   },
   "workbench.layoutControl.enabled": false,
   // "window.title": "‎",
